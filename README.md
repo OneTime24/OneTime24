@@ -181,15 +181,7 @@ A Python-based intelligent assistant that handles user queries and automates res
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneTime24&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=818CF8&text_color=a5b4fc&border_radius=8" width="50%"/>
 </p>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=OneTime24&theme=discord&no-frame=true&column=6&margin-w=10&margin-h=10"/>
-</p>
-
----
 
 ## 📈 Contribution Activity
 
