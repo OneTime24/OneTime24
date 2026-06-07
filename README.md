@@ -1,20 +1,106 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=210&section=header&text=Mohsin%20Ali&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=BS%20Computer%20Science%20%E2%80%94%20FAST%20NUCES%20Peshawar&descColor=b39ddb&descSize=16&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30&height=3&section=header" />
+
+</div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=7C4DFF&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%7C+3rd+Semester;Focused+on+Fundamentals%2C+Systems+%26+AI;Aspiring+CS+Researcher+and+Software+Engineer" />
+<table border="0" width="100%">
+<tr>
+<td width="60%" valign="top">
+
+<h1>Mohsin Ali</h1>
+
+<p>
+  <strong>BS Computer Science</strong> &nbsp;·&nbsp; FAST NUCES Peshawar &nbsp;·&nbsp; Semester III<br/>
+  <sub>Systems Programming &nbsp;·&nbsp; Artificial Intelligence &nbsp;·&nbsp; CS Research</sub>
+</p>
+
+<p>
+I am a Computer Science student building rigorous theoretical and practical foundations across systems programming, object-oriented design, and artificial intelligence. My focus is on understanding software deeply — how it is structured, how it performs, and how it can be improved through principled engineering and research.
+</p>
+
+<p>
+My long-term goal is to pursue graduate studies in Computer Science, contribute to academic research, and work on software systems that address meaningful problems.
+</p>
+
+</td>
+<td width="40%" align="center" valign="top">
 
 <br/>
 
-<a href="https://github.com/OneTime24">
-  <img src="https://img.shields.io/badge/GitHub-OneTime24-7C4DFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/University-FAST%20NUCES%20Peshawar-5C6BC0?style=for-the-badge&labelColor=0d1117"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=OneTime24&label=Profile+Views&color=7C4DFF&style=for-the-badge&labelColor=0d1117"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=320&lines=Systems+%7C+AI+%7C+Research;C+·+C%2B%2B+·+Python;FAST+NUCES+—+Peshawar;Building+Foundations+for+Research" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Status-Active-A78BFA?style=flat-square&labelColor=0f0f23&color=A78BFA"/>
+<img src="https://img.shields.io/badge/Semester-III-6D28D9?style=flat-square&labelColor=0f0f23"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=OneTime24&label=Profile+Views&color=A78BFA&style=flat-square&labelColor=0f0f23"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## `01` &nbsp; Academic Profile
+
+<table border="0" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Institution** &nbsp; FAST NUCES, Peshawar Campus  
+**Programme** &nbsp; Bachelor of Science — Computer Science  
+**Standing** &nbsp; 3rd Semester, in progress  
+**Location** &nbsp; Pakistan  
+
+</td>
+<td width="50%" valign="top">
+
+**Primary Focus**
+- Systems Programming & Low-Level Design  
+- Artificial Intelligence & Intelligent Systems  
+- Software Engineering & Architecture  
+- Computer Science Research  
+- Algorithms & Computational Problem Solving  
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## `02` &nbsp; Technical Stack
+
+<br/>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,linux,vscode&theme=dark&perline=7"/>
+</p>
+
+<br/>
+
+<div align="center">
+
+| Language / Tool | Proficiency | Application |
+|---|---|---|
+| **C** | ★★★★☆ | Systems programming, algorithmic design |
+| **C++** | ★★★☆☆ | Object-oriented design, system projects |
+| **Python** | ★★★☆☆ | AI development, scripting, automation |
+| **Git & GitHub** | ★★★☆☆ | Version control, project management |
+| **Linux** | ★★★☆☆ | Development environment, terminal workflows |
 
 </div>
 
@@ -22,220 +108,206 @@
 
 ---
 
-## About Me
+<br/>
 
-```yaml
-Name         : Mohsin Ali
-University   : FAST NUCES — Peshawar Campus
-Degree       : Bachelor of Science in Computer Science
-Semester     : 3rd (in progress)
-Location     : Pakistan
-Interests    : Systems Programming · Artificial Intelligence · CS Research
-Goal         : Graduate Studies in Computer Science — Research & Software Engineering
-```
+## `03` &nbsp; Project Portfolio
 
-I am a Computer Science student with a focus on building strong theoretical and practical foundations before advancing to specialized domains. My academic journey began with systems-level programming in C, progressing through C++, object-oriented design, and Python — with an increasing focus on artificial intelligence and software engineering principles.
-
-My approach to learning prioritizes depth over breadth: I aim to understand how software systems are designed, how they function at a low level, and how that understanding applies to building reliable, meaningful software.
-
-My primary areas of interest include:
-
-| Domain | Focus |
-|---|---|
-| ⚙️ Systems Programming | Low-level architecture, memory, and program execution |
-| 🤖 Artificial Intelligence | Intelligent systems, automation, and AI fundamentals |
-| 🔬 CS Research | Theoretical foundations and academic contribution |
-| 🏗️ Software Engineering | System design, architecture, and software quality |
-| 🧩 Algorithms & Problem Solving | DSA, computational thinking, analytical skills |
-
----
-
-## Technical Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,linux,vscode&theme=dark&perline=7" />
-</p>
+> Each project marks a distinct stage in my development as a programmer — from foundational scripting to object-oriented system design and applied AI.
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-Programming-7C4DFF?style=flat-square&logo=c&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/C++-OOP%20%26%20Design-5C6BC0?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Python-Development%20%26%20AI-7C4DFF?style=flat-square&logo=python&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Git-Version%20Control-5C6BC0?style=flat-square&logo=git&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Linux-Environment-7C4DFF?style=flat-square&logo=linux&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/VS%20Code-Editor-5C6BC0?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0d1117"/>
-</p>
+<table border="0" width="100%">
 
----
+<tr>
+<td width="50%" valign="top">
 
-## Currently Learning
+### 📦 Inventory Management System
+`Python` &nbsp;·&nbsp; *Early Development*
 
-| Area | Topics |
-|---|---|
-| 📐 Data Structures & Algorithms | Arrays, Linked Lists, Trees, Sorting, Searching, Complexity Analysis |
-| 🏗️ Software Engineering | Design Principles, Software Architecture, OOP Patterns |
-| 🐍 Python Development | Scripting, Automation, Libraries, Project Development |
-| 🤖 Artificial Intelligence | AI Fundamentals, Problem Formulation, Intelligent Systems |
-| 🔓 Open Source & Git | Collaborative Workflows, Branching, Version Control Practices |
+A complete data management application built in Python. Covers structured inventory tracking, persistent file-based storage, and user interaction through a command-driven interface.
 
----
+**Concepts:** Data Management · File I/O · User Interface · Python Application Design
 
-## Featured Projects
+<img src="https://img.shields.io/badge/Python-Development-A78BFA?style=flat-square&labelColor=0f0f23"/>
+<img src="https://img.shields.io/badge/Type-Complete%20Application-6D28D9?style=flat-square&labelColor=0f0f23"/>
 
-### 📦 Inventory Management System — `Python`
+</td>
+<td width="50%" valign="top">
 
-A complete software application developed to manage inventory data, track items, and facilitate user interaction through a structured interface. This project introduced me to practical Python development and real-world data management concepts.
+### 🔍 Plagiarism Checker
+`C` &nbsp;·&nbsp; *Semester I*
 
-**Technical concepts:** Data Management · File Handling · User Interaction · Python Programming
+A text analysis system that reads source files, processes string data, and computes similarity scores using algorithmic comparison logic. Developed to demonstrate applied algorithmic thinking and file handling in C.
 
-<p>
-  <img src="https://img.shields.io/badge/Language-Python-7C4DFF?style=flat-square&logo=python&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Domain-Software%20Development-5C6BC0?style=flat-square&labelColor=0d1117"/>
-  <a href="https://github.com/OneTime24"><img src="https://img.shields.io/badge/View%20on%20GitHub-→-7C4DFF?style=flat-square&labelColor=0d1117"/></a>
-</p>
+**Concepts:** String Processing · File Handling · Text Analysis · Algorithm Design
 
-<br/>
+<img src="https://img.shields.io/badge/C-Systems-A78BFA?style=flat-square&labelColor=0f0f23"/>
+<img src="https://img.shields.io/badge/Semester-I-6D28D9?style=flat-square&labelColor=0f0f23"/>
 
-### 🔍 Plagiarism Checker — `C · Semester 1`
+</td>
+</tr>
 
-Developed during my first semester as a demonstration of algorithmic thinking applied to text processing. The system reads input files, processes string data, and detects textual similarity through structured comparison logic.
+<tr><td colspan="2"><br/></td></tr>
 
-**Technical concepts:** String Processing · File I/O · Text Analysis · Algorithmic Design · Problem Solving
+<tr>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://img.shields.io/badge/Language-C-7C4DFF?style=flat-square&logo=c&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Semester-1st-5C6BC0?style=flat-square&labelColor=0d1117"/>
-  <a href="https://github.com/OneTime24"><img src="https://img.shields.io/badge/View%20on%20GitHub-→-7C4DFF?style=flat-square&labelColor=0d1117"/></a>
-</p>
+### 🎓 CORELMS Clone
+`C++` &nbsp;·&nbsp; *Semester II*
 
-<br/>
+A university management system modelled on FAST's CORELMS platform. Implements role-based access, student and course data management, and a full object-oriented architecture. The most structurally complex project completed to date.
 
-### 🎓 CORELMS Clone — `C++ · Semester 2`
+**Concepts:** OOP · C++ · System Architecture · User Management · Software Design
 
-A university management system modeled after FAST's CORELMS platform, developed in C++ with a full object-oriented architecture. The system supports user management, academic data organization, and role-based functionality — representing my most structurally complex project to date.
+<img src="https://img.shields.io/badge/C++-OOP%20Architecture-A78BFA?style=flat-square&labelColor=0f0f23"/>
+<img src="https://img.shields.io/badge/Semester-II-6D28D9?style=flat-square&labelColor=0f0f23"/>
+<img src="https://img.shields.io/badge/Complexity-High-4C1D95?style=flat-square&labelColor=0f0f23"/>
 
-**Technical concepts:** Object-Oriented Programming · C++ · System Design · User Management · Data Organization
+</td>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://img.shields.io/badge/Language-C++-7C4DFF?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Semester-2nd-5C6BC0?style=flat-square&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Domain-Software%20Design-b39ddb?style=flat-square&labelColor=0d1117"/>
-  <a href="https://github.com/OneTime24"><img src="https://img.shields.io/badge/View%20on%20GitHub-→-7C4DFF?style=flat-square&labelColor=0d1117"/></a>
-</p>
+### 🤖 Kudos AI Assistant
+`Python` &nbsp;·&nbsp; *Applied AI*
 
-<br/>
+A Python-based intelligent assistant designed to process user queries and automate responses. Developed as an applied introduction to AI system design, automation logic, and natural language interaction patterns.
 
-### 🤖 Kudos AI Assistant — `Python`
+**Concepts:** AI · Automation · Natural Language Processing · Python Engineering
 
-A Python-based AI assistant designed to handle user queries, automate responses, and demonstrate core concepts in intelligent system design. This project reflects my initial exploration of artificial intelligence and its practical applications.
+<img src="https://img.shields.io/badge/Python-AI%20Development-A78BFA?style=flat-square&labelColor=0f0f23"/>
+<img src="https://img.shields.io/badge/Domain-Artificial%20Intelligence-6D28D9?style=flat-square&labelColor=0f0f23"/>
 
-**Technical concepts:** Artificial Intelligence · Automation · Natural Language Interaction · Python Development
+</td>
+</tr>
 
-<p>
-  <img src="https://img.shields.io/badge/Language-Python-7C4DFF?style=flat-square&logo=python&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Domain-Artificial%20Intelligence-5C6BC0?style=flat-square&labelColor=0d1117"/>
-  <a href="https://github.com/OneTime24"><img src="https://img.shields.io/badge/View%20on%20GitHub-→-7C4DFF?style=flat-square&labelColor=0d1117"/></a>
-</p>
-
-<br/>
-
-**Development Progression:**
-
-```
-Python Scripts  ──▶  C Algorithms  ──▶  C++ OOP Systems  ──▶  AI Development  ──▶  DSA & Research
-```
-
----
-
-## Current Focus
-
-```
-  ▸  Data Structures & Algorithms — building a rigorous problem-solving foundation
-  ▸  C++ — deepening proficiency in object-oriented and systems-level programming
-  ▸  Python — expanding capabilities for AI and software development work
-  ▸  Software Architecture — studying how real-world systems are structured and designed
-  ▸  Research Preparation — developing the academic and technical foundation for graduate study
-```
-
----
-
-## Goals & Roadmap
-
-<table>
-  <tr>
-    <th>Near-Term</th>
-    <th>Mid-Term</th>
-    <th>Long-Term</th>
-  </tr>
-  <tr>
-    <td>
-      ▸ Master Data Structures & Algorithms<br/>
-      ▸ Develop strong problem-solving skills<br/>
-      ▸ Build larger, structured software projects<br/>
-      ▸ Achieve fluency in C++ and Python
-    </td>
-    <td>
-      ▸ Study Machine Learning fundamentals<br/>
-      ▸ Advance into AI and intelligent systems<br/>
-      ▸ Contribute to open source projects<br/>
-      ▸ Strengthen software design knowledge
-    </td>
-    <td>
-      ▸ Pursue graduate studies in CS<br/>
-      ▸ Conduct and publish CS research<br/>
-      ▸ Contribute to impactful software systems<br/>
-      ▸ Work at the intersection of AI and research
-    </td>
-  </tr>
 </table>
 
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OneTime24&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7C4DFF&icon_color=7C4DFF&text_color=b39ddb&border_radius=10" width="48%"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OneTime24&hide_border=true&background=0d1117&ring=7C4DFF&fire=5C6BC0&currStreakLabel=b39ddb&sideLabels=b39ddb&border_radius=10" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneTime24&layout=compact&hide_border=true&bg_color=0d1117&title_color=7C4DFF&text_color=b39ddb&border_radius=10" width="50%"/>
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OneTime24&theme=discord&no-frame=true&column=6&margin-w=10&margin-h=10"/>
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OneTime24&bg_color=0d1117&color=7C4DFF&line=7C4DFF&point=b39ddb&area=true&hide_border=true" width="95%"/>
-</p>
-
----
-
-## Connect
-
-<p align="center">
-  <a href="https://github.com/OneTime24">
-    <img src="https://img.shields.io/badge/GitHub-OneTime24-7C4DFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-  </a>
-</p>
-
----
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn"/>
+```
+Python Scripting  ──›  C Algorithms  ──›  C++ System Design  ──›  AI Development  ──›  DSA & Research
+```
 
-*"The winner takes it all, the loser has to fall."*
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## `04` &nbsp; Current Focus
+
+<table border="0" width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**This Semester**
+- Data Structures & Algorithms
+- Advanced C++ Programming
+- Object-Oriented Software Design
+- Software Engineering Principles
+
+</td>
+<td width="33%" valign="top">
+
+**Developing**
+- Python for AI and data work
+- Open source contribution practices
+- Software architecture patterns
+- Algorithmic problem solving
+
+</td>
+<td width="33%" valign="top">
+
+**Preparing For**
+- Machine Learning foundations
+- AI and research coursework
+- Larger system-level projects
+- Graduate study prerequisites
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## `05` &nbsp; Roadmap
+
+<div align="center">
+
+| | Near-Term | Mid-Term | Long-Term |
+|---|---|---|---|
+| **Academic** | Master DSA & OOP | Study ML & AI | Graduate Studies in CS |
+| **Technical** | C++ & Python fluency | Open source contributions | Research-level programming |
+| **Projects** | Structured software systems | AI & ML projects | Publishable research work |
+| **Career** | Strong CS fundamentals | Software engineering depth | CS Researcher & Engineer |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## `06` &nbsp; GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OneTime24&show_icons=true&hide_border=true&bg_color=0f0f23&title_color=A78BFA&icon_color=A78BFA&text_color=8b8fc7&border_radius=8" width="48%"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OneTime24&hide_border=true&background=0f0f23&ring=A78BFA&fire=6D28D9&currStreakLabel=A78BFA&sideLabels=8b8fc7&dates=8b8fc7&border_radius=8" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneTime24&layout=compact&hide_border=true&bg_color=0f0f23&title_color=A78BFA&text_color=8b8fc7&border_radius=8" width="50%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OneTime24&theme=discord&no-frame=true&column=6&margin-w=10"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OneTime24&bg_color=0f0f23&color=A78BFA&line=6D28D9&point=A78BFA&area=true&hide_border=true" width="95%"/>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+## `07` &nbsp; Contact
+
+<p align="center">
+  <a href="https://github.com/OneTime24">
+    <img src="https://img.shields.io/badge/GitHub-%40OneTime24-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f23"/>
+  </a>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+<sub>
+<strong>Mohsin Ali</strong> &nbsp;·&nbsp; BS Computer Science &nbsp;·&nbsp; FAST NUCES Peshawar &nbsp;·&nbsp; Semester III
+</sub>
+
+<br/><br/>
+
+<sub><i>"The winner takes it all, the loser has to fall."</i></sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30&height=3&section=footer" />
 
 </div>
