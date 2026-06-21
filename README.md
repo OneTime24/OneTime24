@@ -220,7 +220,7 @@ A Python-based intelligent assistant that handles user queries and automates res
 
 <br/>
 
----
+
 
 <div align="center">
 
