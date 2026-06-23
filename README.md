@@ -160,11 +160,11 @@ A Python-based intelligent assistant that handles user queries and automates res
 ## 🔭 Current Focus
 
 ```
-▸  Data Structures & Algorithms — building a rigorous problem-solving foundation
-▸  C++ — deepening proficiency in object-oriented and systems-level programming  
-▸  Python — expanding capabilities for AI and software development work
-▸  Software Architecture — studying how real-world systems are structured and designed
-▸  Research Preparation — developing the academic foundation for graduate study
+▸  Data Structures & Algorithms : building a rigorous problem-solving foundation
+▸  C++ : deepening proficiency in object-oriented and systems-level programming  
+▸  Python : expanding capabilities for AI and software development work
+▸  Software Architecture : studying how real-world systems are structured and designed
+▸  Research Preparation : developing the academic foundation for graduate study
 ```
 
 ---
