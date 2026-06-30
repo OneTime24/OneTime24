@@ -96,13 +96,7 @@ CLI-based data management app with file persistence and structured user interact
 
 <br/>
 
-## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/OneTime24/OneTime24/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</p>
-
-<br/>
 
 ## 📫 Connect With Me
 
