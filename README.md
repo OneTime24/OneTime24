@@ -8,6 +8,10 @@
 
 <br/>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=OneTime24&label=Profile+Views&color=818CF8&style=flat-square&labelColor=1e1b4b"/>
+</p>
+
 ## 👨‍💻 About Me
 
 CS student at FAST NUCES Peshawar, currently in Semester III. I focus on understanding how systems are built and why — moving from C and C++ fundamentals toward AI and software architecture, with graduate research as the long-term goal.
@@ -107,9 +111,7 @@ CLI-based data management app with file persistence and structured user interact
 
 <p align="center"><i>"Understanding how systems are built — one layer at a time."</i></p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=OneTime24&label=Profile+Views&color=818CF8&style=flat-square&labelColor=1e1b4b"/>
-</p>
+
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:0a0a0f&height=100&section=footer"/>
