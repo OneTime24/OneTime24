@@ -114,5 +114,8 @@ CLI-based data management app with file persistence and structured user interact
 
 
 <div align="center">
+
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:0a0a0f&height=100&section=footer"/>
 </div> -->
