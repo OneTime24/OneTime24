@@ -1,4 +1,4 @@
-<!-- <div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1e1b4b,100:312e81&height=200&section=header&text=Mohsin%20Ali&fontSize=50&fontColor=e0e7ff&fontAlignY=38&desc=BS%20Computer%20Science%20·%20FAST%20NUCES%20Peshawar&descColor=a5b4fc&descSize=15&descAlignY=58&animation=fadeIn"/>
 
@@ -118,4 +118,4 @@ CLI-based data management app with file persistence and structured user interact
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:0a0a0f&height=100&section=footer"/>
-</div> -->
+</div>
