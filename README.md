@@ -1,121 +1,32 @@
- <div align="center">
+### Hi, I'm Mohsin!   👾 》I like understanding how systems are built, one layer at a time.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1e1b4b,100:312e81&height=200&section=header&text=Mohsin%20Ali&fontSize=50&fontColor=e0e7ff&fontAlignY=38&desc=BS%20Computer%20Science%20·%20FAST%20NUCES%20Peshawar&descColor=a5b4fc&descSize=15&descAlignY=58&animation=fadeIn"/>
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1500&color=818CF8&center=true&vCenter=true&width=550&lines=Systems+Programming+%7C+AI+%7C+CS+Research;C+%C2%B7+C%2B%2B+%C2%B7+Python+%C2%B7+Git+%C2%B7+Linux"/>
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square) ![c](https://img.shields.io/static/v1?logo=c&label=&message=c&color=36465D&logoColor=AAA&style=flat-square) ![cpp](https://img.shields.io/static/v1?logo=cplusplus&label=&message=c%2B%2B&color=36465D&logoColor=AAA&style=flat-square) ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square)     ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square) ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square) ![linux](https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=36465D&logoColor=AAA&style=flat-square) ![vscode](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=vscode&color=36465D&logoColor=AAA&style=flat-square)
 
-</div>
+**BS Computer Science Student** 》*FAST NUCES Peshawar, Semester III*
+**Aspiring Researcher** 》*systems programming, AI & software architecture*
 
-<br/>
+---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=OneTime24&label=Profile+Views&color=818CF8&style=flat-square&labelColor=1e1b4b"/>
-</p>
+[![GitHub](https://img.shields.io/static/v1?logo=github&label=&message=OneTime24&color=364650&logoColor=AAA&style=flat-square)](https://github.com/OneTime24) [![LinkedIn](https://img.shields.io/static/v1?logo=linkedin&label=&message=Mohsin%20Ali&color=364650&logoColor=AAA&style=flat-square)](https://www.linkedin.com/in/mohsin-ali-177885260/)
 
-## 👨‍💻 About Me
+|     Currently : C / C++ / Python fundamentals    |    Next : AI & graduate research    |    Projects : ▼ ▼ ▼
 
-CS student at FAST NUCES Peshawar, currently in Semester III. I focus on understanding how systems are built and why — moving from C and C++ fundamentals toward AI and software architecture, with graduate research as the long-term goal.
+## Pinned
 
-- 🔭 Currently strengthening my foundations in **C / C++ / Python**
-- 🧠 Moving toward **AI** and **software architecture**
-- 🎓 Long-term goal: **graduate research** in Computer Science
-- 💼 Interested in: Systems Programming · Artificial Intelligence · Algorithms · Software Architecture
+**[CORELMS Clone](https://github.com/OneTime24)** `C++`
+University management system with role-based access and full OOP architecture.
 
-<br/>
+**[Kudos AI Assistant](https://github.com/OneTime24)** `Python`
+Query-handling assistant that automates responses with NLP-style interaction.
 
-## 🛠 Tech Stack
+**[Plagiarism Checker](https://github.com/OneTime24)** `C`
+Text similarity engine using string comparison and file I/O.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,linux,vscode&theme=dark&perline=7"/>
-</p>
+**[Inventory Management](https://github.com/OneTime24)** `Python`
+CLI data management app with file persistence.
 
-<br/>
+---
 
-## ⭐ Latest Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 CORELMS Clone
-`C++`
-
-University management system with role-based access, course/student data handling, and a full OOP architecture — most structurally complex project to date.
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Kudos AI Assistant
-`Python`
-
-Intelligent assistant that handles user queries and automates responses, exploring basic NLP-style interaction patterns.
-
-</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 Plagiarism Checker
-`C`
-
-Text similarity engine that detects overlap between source files using algorithmic string comparison and file I/O.
-
-</td>
-<td width="50%" valign="top">
-
-### 📦 Inventory Management
-`Python`
-
-CLI-based data management app with file persistence and structured user interaction.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🏆 Highlights
-
-| 🖥️ Systems Programming | 🤖 Artificial Intelligence | 🏗️ Software Architecture | 💻 Algorithms |
-|:---:|:---:|:---:|:---:|
-| C & C++ fundamentals | NLP-style assistants | OOP-based system design | Data structures & file I/O |
-
-<br/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=OneTime24&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=818CF8&icon_color=6366f1&text_color=a5b4fc&border_radius=8" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OneTime24&hide_border=true&background=0a0a0f&ring=818CF8&fire=6366f1&currStreakLabel=818CF8&sideLabels=a5b4fc&dates=6b7280&border_radius=8" width="48%"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneTime24&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=818CF8&text_color=a5b4fc&border_radius=8" width="42%"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OneTime24&bg_color=0a0a0f&color=818CF8&line=6366f1&point=a5b4fc&area=true&hide_border=true" width="90%"/>
-</p>
-
-<br/>
-
-
-
-## 📫 Connect With Me
-
-<p align="center">
-<a href="https://github.com/OneTime24"><img src="https://img.shields.io/badge/GitHub-OneTime24-818CF8?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b"/></a>
-<a href="https://www.linkedin.com/in/mohsin-ali-177885260/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b"/></a>
-</p>
-
-<p align="center"><i>"Understanding how systems are built — one layer at a time."</i></p>
-
-
-
-<div align="center">
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:0a0a0f&height=100&section=footer"/>
-</div>
+<sub>*"Understanding how systems are built, one layer at a time."*</sub>
