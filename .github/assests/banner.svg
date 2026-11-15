@@ -1,1 +1,159 @@
 
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1200" height="330" viewBox="0 0 1200 330">
+
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F7F5EE"/>
+      <stop offset="100%" stop-color="#EDE9DF"/>
+    </linearGradient>
+
+    <pattern id="grain" width="9" height="9"
+             patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="3" r=".5" fill="#B8AD9C" opacity=".22"/>
+      <circle cx="7" cy="6" r=".4" fill="#B8AD9C" opacity=".18"/>
+    </pattern>
+
+    <g id="petal">
+      <path d="M0 0 C-11 -12 -8 -25 0 -27
+               C8 -25 11 -12 0 0Z"
+            fill="#963E3E"/>
+      <path d="M0 -2 Q1 -13 0 -23"
+            stroke="#D9A5A0" stroke-width="1" fill="none"/>
+    </g>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="330" rx="14" fill="url(#paper)"/>
+  <rect width="1200" height="330" rx="14" fill="url(#grain)"/>
+  <rect x="1" y="1" width="1198" height="328" rx="13"
+        fill="none" stroke="#C9C2B6" stroke-width="2"/>
+
+  <!-- Sakura branch -->
+  <path d="M-20 43 C50 15 105 78 170 47
+           C205 30 230 27 265 45"
+        fill="none" stroke="#5C554B"
+        stroke-width="1.6" opacity=".8"/>
+
+  <path d="M65 44 Q76 23 88 15
+           M140 49 Q148 25 165 20
+           M190 39 Q203 17 220 19"
+        fill="none" stroke="#75695B" stroke-width="1"/>
+
+  <!-- Branch blossoms -->
+  <use xlink:href="#petal" transform="translate(91 35) scale(.48) rotate(-35)"/>
+  <use xlink:href="#petal" transform="translate(151 35) scale(.42) rotate(30)"/>
+  <use xlink:href="#petal" transform="translate(180 26) scale(.48) rotate(-15)"/>
+  <use xlink:href="#petal" transform="translate(192 27) scale(.45) rotate(40)"/>
+
+  <!-- Falling petals: each follows a different path -->
+
+  <g opacity=".75">
+    <use xlink:href="#petal" transform="translate(180 0) scale(.55)">
+      <animateMotion dur="12s" begin="-7s" repeatCount="indefinite"
+        path="M 0 0 C 35 65 -30 125 10 195 S 20 260 35 370"/>
+      <animateTransform attributeName="transform"
+        type="rotate" from="0" to="360"
+        dur="6s" repeatCount="indefinite" additive="sum"/>
+    </use>
+  </g>
+
+  <g opacity=".55">
+    <use xlink:href="#petal" transform="translate(360 -20) scale(.35)">
+      <animateMotion dur="16s" begin="-11s" repeatCount="indefinite"
+        path="M 0 0 C -35 90 45 130 5 220 S -15 300 20 390"/>
+      <animateTransform attributeName="transform"
+        type="rotate" from="0" to="-360"
+        dur="8s" repeatCount="indefinite" additive="sum"/>
+    </use>
+  </g>
+
+  <g opacity=".7">
+    <use xlink:href="#petal" transform="translate(560 -30) scale(.45)">
+      <animateMotion dur="14s" begin="-4s" repeatCount="indefinite"
+        path="M 0 0 C 45 70 -25 150 20 230 S 40 300 0 390"/>
+      <animateTransform attributeName="transform"
+        type="rotate" from="0" to="360"
+        dur="7s" repeatCount="indefinite" additive="sum"/>
+    </use>
+  </g>
+
+  <g opacity=".65">
+    <use xlink:href="#petal" transform="translate(800 -15) scale(.4)">
+      <animateMotion dur="17s" begin="-9s" repeatCount="indefinite"
+        path="M 0 0 C -45 75 35 145 -10 225 S -20 300 15 390"/>
+      <animateTransform attributeName="transform"
+        type="rotate" from="0" to="-360"
+        dur="9s" repeatCount="indefinite" additive="sum"/>
+    </use>
+  </g>
+
+  <g opacity=".7">
+    <use xlink:href="#petal" transform="translate(1010 -20) scale(.5)">
+      <animateMotion dur="13s" begin="-5s" repeatCount="indefinite"
+        path="M 0 0 C 40 80 -35 140 15 230 S 30 300 0 390"/>
+      <animateTransform attributeName="transform"
+        type="rotate" from="0" to="360"
+        dur="7s" repeatCount="indefinite" additive="sum"/>
+    </use>
+  </g>
+
+  <g opacity=".45">
+    <use xlink:href="#petal" transform="translate(1150 -20) scale(.3)">
+      <animateMotion dur="19s" begin="-13s" repeatCount="indefinite"
+        path="M 0 0 C -30 80 30 160 -15 240 S 0 320 20 390"/>
+      <animateTransform attributeName="transform"
+        type="rotate" from="0" to="-360"
+        dur="10s" repeatCount="indefinite" additive="sum"/>
+    </use>
+  </g>
+
+  <!-- Small drifting petals -->
+  <g fill="#A95E5E" opacity=".65">
+    <circle cx="300" cy="80" r="2">
+      <animate attributeName="cy" values="80;190;80"
+               dur="13s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="940" cy="110" r="2.5">
+      <animate attributeName="cy" values="110;240;110"
+               dur="17s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="40" r="2">
+      <animate attributeName="cy" values="40;180;40"
+               dur="15s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Typography -->
+  <text x="600" y="111"
+        text-anchor="middle"
+        font-family="Georgia, serif"
+        font-size="18"
+        letter-spacing="15"
+        fill="#9B8F80">
+    M O H S I N
+  </text>
+
+  <text x="600" y="221"
+        text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="105"
+        fill="#171615">
+    Mohsin Ali
+  </text>
+
+  <path d="M405 242 H795"
+        stroke="#C9BCAF" stroke-width="1"/>
+
+  <text x="600" y="280"
+        text-anchor="middle"
+        font-family="Georgia, serif"
+        font-size="23"
+        font-style="italic"
+        fill="#796E62">
+    "Understand deeply and build deliberately."
+  </text>
+
+</svg>
